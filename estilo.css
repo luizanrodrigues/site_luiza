@@ -1,0 +1,112 @@
+body { 
+  background-color: rgb(245, 211, 247); 
+  padding: 20px;  
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 { 
+  color:rgb(160, 49, 160); 
+  font-size: 30px; 
+  text-align: center; 
+  font-style:oblique;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 { 
+  font-size: 20px; 
+  margin-top: 30px; 
+  color:rgb(108,35,108); 
+  text-align: center;
+} 
+
+p  { 
+  font-size: 24px; 
+  text-align: justify; 
+  color: rgb(122, 24, 65); 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h5 {
+  font-style: italic; 
+  margin-top: -10px; 
+  text-align: center; 
+  color:rgb(122,26,98);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+  text-align: center; 
+  list-style-position: inside; 
+  padding-left: 10px;
+}
+
+ul li { 
+   margin-bottom: 13px; 
+   font-size: 15px; 
+   color: rgb(122, 26, 98); 
+   text-align: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p,h5 {
+    text-align: center;
+} 
+
+img { 
+   width: 250px; 
+   border-radius: 50px; 
+   display: block; 
+   margin:auto;
+}
+
+table { 
+    border: 2px solid rgb(238, 37, 87);
+    border-collapse: collapse; 
+    width: 30%; 
+    margin:auto; 
+    background-color: rgb(218, 142, 215);
+}
+
+th, td { 
+    border: 1px solid pink; 
+    padding: 8px;   
+    text-align: center;
+}
+
+td img {
+    display: block; 
+    margin: auto; 
+    width: 100px;
+}
+
+a {
+ color:rgb(235, 93, 216); 
+ font-weight: bold;
+}
+
+a:hover {
+    color:rgb(209, 70, 167); 
+    text-decoration: underline;
+}
+
+button {
+    padding: 20px; 
+    background-color:rgb(212, 151, 240); 
+    color: white; 
+    border-radius: 10px; 
+    cursor:pointer; 
+    margin-bottom:20px; 
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: darkorchid;
+}
+
+#mensagem {
+       font-size: 20px; 
+       font-style: italic; 
+       color:rgb(102,15,102); 
+       margin-top: 10px;
+}
